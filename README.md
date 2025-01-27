@@ -66,6 +66,8 @@ Instagram: "[valeria.i.vaz](https://www.instagram.com/valeria.i.vaz/)".
     src="https://github-readme-stats.vercel.app/api?username=ValeriaVaz&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" 
   />
 
+<br/>
+
 <img 
       align="left" 
       alt="GitHub Stats" 
