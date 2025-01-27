@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Valéria Vaz
 
-**`Estudantede Analise e Desenvolvimento de Sistemas`**
+**`Estudante de Analise e Desenvolvimento de Sistemas`**
 
 Meu nome é Valéria tenho 22 anos, sou acadêmica do curso de análise e desenvolvimento de sistemas e tecnico em informatica. Ainda não tenho experiência no mercado de trabalho na área da TI, mas venho desenvolvendo projetos e estou em busca da minha evolução dia após dia. Estou me aprofundando em HTML, CSS, JavaScript, React e SQL, criando interfaces responsivas e acessíveis. Objetivo é unir criatividade e funcionalidade e desenvolver soluções modernas para às necessidades dos usuários.
 Linkedin: "[Valéria Vaz](https://www.linkedin.com/in/valeria-vaz-879550212/)"
