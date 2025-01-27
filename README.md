@@ -74,7 +74,7 @@ Instagram: "[valeria.i.vaz](https://www.instagram.com/valeria.i.vaz/)".
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="margin-right: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=ValeriaVaz&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" 
   />
 
@@ -84,6 +84,7 @@ Instagram: "[valeria.i.vaz](https://www.instagram.com/valeria.i.vaz/)".
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+     style="margin-top: 20px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaVaz&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
