@@ -69,16 +69,16 @@ Instagram: "[valeria.i.vaz](https://www.instagram.com/valeria.i.vaz/)".
 
 ### 📊 Estatísticas
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img 
         alt="GitHub Stats" 
         height="200" 
         src="https://github-readme-stats.vercel.app/api?username=ValeriaVaz&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" 
       />
     </td>
-    <td>
+    <td style="border: none;">
       <img 
         alt="Linguagens mais usadas" 
         height="200" 
@@ -87,4 +87,5 @@ Instagram: "[valeria.i.vaz](https://www.instagram.com/valeria.i.vaz/)".
     </td>
   </tr>
 </table>
+
 
