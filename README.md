@@ -6,6 +6,18 @@ Meu nome é Valéria tenho 22 anos, sou acadêmica do curso de análise e desenv
 Linkedin: "[Valéria Vaz](https://www.linkedin.com/in/valeria-vaz-879550212/)"
 Instagram: "[valeria.i.vaz](https://www.instagram.com/valeria.i.vaz/)".
 
+<p align="left">
+    <a href="https://www.linkedin.com/in/valeria-vaz-879550212/" target="_blank">
+        <img 
+            alt="Conecte-se no LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-Conecte--se-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>
+
+
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -66,7 +78,7 @@ Instagram: "[valeria.i.vaz](https://www.instagram.com/valeria.i.vaz/)".
     src="https://github-readme-stats.vercel.app/api?username=ValeriaVaz&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" 
   />
 
-<br/>
+<br/><br/>
 
 <img 
       align="left" 
